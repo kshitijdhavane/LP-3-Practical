@@ -1,4 +1,4 @@
-# Program 1: Implementation of 0/1 Knapsack Problem using Dynamic Programming
+# Program 1: Implementation of 0/1 Knapsack Problem using Dynamic Programming or branch and bound strategy
 def knapsack(W, wt, val, n):
 
     # Create DP table
